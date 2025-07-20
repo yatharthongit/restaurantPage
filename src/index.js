@@ -1,1 +1,2 @@
-console.log("Hello People!");
+import {home} from "./home.js";
+home();
